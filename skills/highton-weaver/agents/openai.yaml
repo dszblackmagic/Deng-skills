@@ -1,0 +1,7 @@
+interface:
+  display_name: "Highton Weaver"
+  short_description: "根据泛微文档生成通用分层风格接口封装代码"
+  default_prompt: "Use $highton-weaver to turn a Weaver OA API document link into layered project code across provider, service, impl, DTO, and optional test files."
+
+policy:
+  allow_implicit_invocation: true

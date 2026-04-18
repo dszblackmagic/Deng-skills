@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+
+*.swp
+*.swo
+*.tmp
+
+.env
+.env.*
+
+docs/
