@@ -1,6 +1,6 @@
 ---
 name: xgyh-settle
-description: Settle monthly store operations data into a store statistics workbook (门店统计表.xlsx). Use when the user provides raw monthly transaction data (purchases, expenses by date/person) and summary metrics (revenue, order counts, platform fees), or asks to generate a monthly store statistics sheet. Trigger on: 门店统计, 月结算, 月统计, 运营数据, 进货数据, store settlement, monthly report, or pasting raw transaction logs with dates like "4-1进货". When the user pastes raw transaction data with person labels and date-item-amount lines, invoke this skill immediately.
+description: Use when generating a monthly 门店统计 sheet from raw purchase or expense lines plus summary metrics such as revenue, order counts, and platform fees, including requests mentioning 门店统计, 月结算, 月统计, 运营数据, 进货数据, store settlement, or monthly report.
 ---
 
 # 月度门店结算
