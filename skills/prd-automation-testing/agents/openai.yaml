@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD自动化自测"
+  short_description: "基于PRD或原型图完成规划资料与自动化执行验证"
+  default_prompt: "请基于我提供的PRD、原型图或已确认测试规划，执行PRD自动化自测流程。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD测试执行"
+  short_description: "按确认后的测试规划执行自动化验证并完成失败证据取证"
+  default_prompt: "请基于已确认的PRD测试规划执行自动化验证，并按规则记录执行结果和缺陷。"
