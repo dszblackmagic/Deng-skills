@@ -1,4 +1,4 @@
 interface:
-  display_name: "PRD测试规划"
-  short_description: "基于PRD或原型图生成自动化自测规划资料并等待确认"
-  default_prompt: "请基于我提供的PRD或原型图生成模块自动化自测规划资料。"
+  display_name: "PRD Test Planning"
+  short_description: "Generate PRD based automation test planning assets"
+  default_prompt: "Generate module automation self-test planning documents from the PRD or prototype I provide."
